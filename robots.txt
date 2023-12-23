@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodyexwasurt.github.io/sitemap.xml
